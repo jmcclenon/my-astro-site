@@ -1,4 +1,4 @@
-#This repository is pushed to Netlify. All changes will be pushed to https://curious-strudel-b1228e.netlify.app/
+# This repository is pushed to Netlify. All changes will be pushed to https://curious-strudel-b1228e.netlify.app/
 
 # Astro Starter Kit: Minimal
 
